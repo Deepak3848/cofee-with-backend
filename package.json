@@ -1,0 +1,11 @@
+{
+  "name": "cofee-with-backend",
+  "version": "1.0.0",
+  "description": "code with cofee",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deepak Marathe",
+  "license": "ISC"
+}
